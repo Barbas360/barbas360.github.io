@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>"Turismo Códoba"</title>
+        <meta charset="utf-8>
+        <meta name="description" concept="Córdoba ciudad patrimonial">
+        <meta name="keywords" concept="Turismo, patrimonio, viajes">  
+        <!--link rel="stylesheet href="estilos.css"-->
+    </head>
+    <body>
+        <main>
+            <header>
+                Córdoba Ciudad Patrimonio
+            </header>
+            <nav>
+                La Mezquita | Casco Histórico | Los Patios | Medina Azahara | Contacto
+            </nav>
+            <section> 
+                <article>
+                Contenido noticia 1
+                </article>
+                <article>
+                Contenido noticia 2
+                </article>
+            </section>
+            <aside>
+                Agenda
+                Publicidad
+            </aside>
+            <footer>
+            &copy: José Muñoz Martínez
+            </footer>
+        </main>
+    </body>
+</html>
