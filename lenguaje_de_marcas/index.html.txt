@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>"José Munoz"</title>
+        <meta charset="utf-8>
+        <meta name="description" concept="Página Web de José Munoz">  
+        <!--link rel="stylesheet href="estilos.css"-->
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1 id="top" align="center">
+                    José Munoz Martínez
+                </h1>
+            </header>
+            <section alig="center"> 
+                <article>
+                    <header>
+                        <h3>Carpetas</h3>
+                        </br>
+                    </header>
+                    <p></p>
+                        <h4>
+                        "- "<a href="index.html" target="_black">"Lenguaje de Marcas"</a>
+                        </h4>
+                    <p></p>
+                </article>
+            </section>
+            <aside>
+                Agenda
+                Publicidad
+            </aside>
+            <footer>
+                <address>Córdoba, Spain</address>
+                <p></p>
+                &copy: José Muñoz Martínez, Todos los derechos.
+                <p></p>
+            </footer>
+        </main>
+    </body>
+</html>
