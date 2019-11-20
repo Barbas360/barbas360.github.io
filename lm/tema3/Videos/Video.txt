@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Reproductor de video</title>
+        <meta charset="utf-8>
+        <meta name="description" concept="Documento HTML5">
+        <meta name="keywords" concept="HTML, XHTML, CSS">  
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1>Video Pajarita</h1>
+            </header>
+            <nav>
+            </nav>
+            <section> 
+                <article>
+                </article>
+            </section>
+            <aside>
+            </aside>
+            <footer>
+            </footer>
+        </main>
+    </body>
+</html>
